@@ -1,0 +1,6 @@
+{
+  "name": "합창 파트별 피아노 음원 생성기",
+  "description": "PDF 악보를 업로드하면 소프라노, 알토, 테너, 베이스 파트별 피아노 연습 음원을 생성하고 다운로드할 수 있습니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
